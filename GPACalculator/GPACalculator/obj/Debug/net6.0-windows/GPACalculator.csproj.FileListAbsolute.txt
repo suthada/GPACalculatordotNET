@@ -1,0 +1,17 @@
+D:\Github\GPACalculatordotNET\GPACalculator\GPACalculator\bin\Debug\net6.0-windows\GPACalculator.exe
+D:\Github\GPACalculatordotNET\GPACalculator\GPACalculator\bin\Debug\net6.0-windows\GPACalculator.deps.json
+D:\Github\GPACalculatordotNET\GPACalculator\GPACalculator\bin\Debug\net6.0-windows\GPACalculator.runtimeconfig.json
+D:\Github\GPACalculatordotNET\GPACalculator\GPACalculator\bin\Debug\net6.0-windows\GPACalculator.dll
+D:\Github\GPACalculatordotNET\GPACalculator\GPACalculator\bin\Debug\net6.0-windows\ref\GPACalculator.dll
+D:\Github\GPACalculatordotNET\GPACalculator\GPACalculator\bin\Debug\net6.0-windows\GPACalculator.pdb
+D:\Github\GPACalculatordotNET\GPACalculator\GPACalculator\obj\Debug\net6.0-windows\GPACalculator.csproj.AssemblyReference.cache
+D:\Github\GPACalculatordotNET\GPACalculator\GPACalculator\obj\Debug\net6.0-windows\GPACalculator.csproj.GenerateResource.cache
+D:\Github\GPACalculatordotNET\GPACalculator\GPACalculator\obj\Debug\net6.0-windows\GPACalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\GPACalculatordotNET\GPACalculator\GPACalculator\obj\Debug\net6.0-windows\GPACalculator.AssemblyInfoInputs.cache
+D:\Github\GPACalculatordotNET\GPACalculator\GPACalculator\obj\Debug\net6.0-windows\GPACalculator.AssemblyInfo.cs
+D:\Github\GPACalculatordotNET\GPACalculator\GPACalculator\obj\Debug\net6.0-windows\GPACalculator.csproj.CoreCompileInputs.cache
+D:\Github\GPACalculatordotNET\GPACalculator\GPACalculator\obj\Debug\net6.0-windows\GPACalculator.dll
+D:\Github\GPACalculatordotNET\GPACalculator\GPACalculator\obj\Debug\net6.0-windows\ref\GPACalculator.dll
+D:\Github\GPACalculatordotNET\GPACalculator\GPACalculator\obj\Debug\net6.0-windows\GPACalculator.pdb
+D:\Github\GPACalculatordotNET\GPACalculator\GPACalculator\obj\Debug\net6.0-windows\GPACalculator.genruntimeconfig.cache
+D:\Github\GPACalculatordotNET\GPACalculator\GPACalculator\obj\Debug\net6.0-windows\GPACalculator.MainForm.resources
